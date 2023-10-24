@@ -5,7 +5,7 @@ This simple demo has the following functionality
 3. Construct the 5G ray-tracing channel in MATLAB, which also include the LDPC encoding process.
 4. MATLAB continuously outputs channel response images to form the training dataset for the CNN.
 
-# requirement
+# Requirement
 
 SUMO 1.6.0
 python 3.8
