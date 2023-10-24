@@ -10,3 +10,8 @@ This simple demo has the following functionality
 SUMO 1.6.0
 python 3.8
 MATLAB 2021a
+
+# How to run?
+python sumoraytrace.py
+
+This python script will wake up MATLAB and SUMO.
